@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "postinstall": "cd client && yarn install"
+  },
+
   "name": "waterdesign_ca",
   "private": true,
   "dependencies": {}
